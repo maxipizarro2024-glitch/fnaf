@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "II",
+    "II",
+    "II"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_block"
+    }
+  },
+  "result": {
+    "item": "fnafnights:security_door_left",
+    "count": 3
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " M ",
+    "IBI"
+  ],
+  "key": {
+    "M": {
+      "item": "minecraft:redstone"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:stone_button"
+    }
+  },
+  "result": {
+    "item": "fnafnights:door_button_left",
+    "count": 1
+  }
+}

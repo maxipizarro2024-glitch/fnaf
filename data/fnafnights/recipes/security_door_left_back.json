@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fnafnights:security_door_right"
+    }
+  ],
+  "result": {
+    "item": "fnafnights:security_door_left",
+    "count": 1
+  }
+}

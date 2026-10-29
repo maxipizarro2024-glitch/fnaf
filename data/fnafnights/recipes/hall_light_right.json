@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fnafnights:hall_light_left"
+    }
+  ],
+  "result": {
+    "item": "fnafnights:hall_light_right",
+    "count": 1
+  }
+}

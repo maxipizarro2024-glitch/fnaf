@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "minecraft:white_concrete"
+    }
+  ],
+  "result": {
+    "item": "fnafnights:checker_tile",
+    "count": 2
+  }
+}

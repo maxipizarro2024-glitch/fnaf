@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "fnafnights:door_button_left"
+    }
+  ],
+  "result": {
+    "item": "fnafnights:door_button_right",
+    "count": 1
+  }
+}

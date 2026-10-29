@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:purple_wool"
+    }
+  },
+  "result": {
+    "item": "fnafnights:stage_curtain",
+    "count": 2
+  }
+}

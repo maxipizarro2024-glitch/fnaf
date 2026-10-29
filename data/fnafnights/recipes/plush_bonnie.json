@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WW",
+    "WW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:blue_wool"
+    }
+  },
+  "result": {
+    "item": "fnafnights:plush_bonnie",
+    "count": 1
+  }
+}

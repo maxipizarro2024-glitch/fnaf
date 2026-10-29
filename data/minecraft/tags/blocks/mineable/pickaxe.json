@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "fnafnights:checker_tile",
+    "fnafnights:office_floor",
+    "fnafnights:pizzeria_wall",
+    "fnafnights:pizzeria_wall_striped",
+    "fnafnights:stage_floor",
+    "fnafnights:stage_curtain",
+    "fnafnights:pirate_cove_curtain",
+    "fnafnights:party_table",
+    "fnafnights:dim_light",
+    "fnafnights:vent_grate",
+    "fnafnights:security_door_left",
+    "fnafnights:security_door_right",
+    "fnafnights:door_button_left",
+    "fnafnights:door_button_right",
+    "fnafnights:light_button_left",
+    "fnafnights:light_button_right",
+    "fnafnights:hall_light_left",
+    "fnafnights:hall_light_right",
+    "fnafnights:security_monitor",
+    "fnafnights:office_desk",
+    "fnafnights:security_camera",
+    "fnafnights:poster_celebrate",
+    "fnafnights:poster_its_me",
+    "fnafnights:plush_freddy",
+    "fnafnights:plush_bonnie",
+    "fnafnights:plush_chica",
+    "fnafnights:plush_foxy"
+  ]
+}
