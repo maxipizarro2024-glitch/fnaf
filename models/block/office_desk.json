@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "fnafnights:block/desk_top",
+    "bottom": "fnafnights:block/desk_top",
+    "side": "fnafnights:block/desk_side"
+  }
+}

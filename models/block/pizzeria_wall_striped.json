@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fnafnights:block/pizzeria_wall_striped"
+  }
+}
